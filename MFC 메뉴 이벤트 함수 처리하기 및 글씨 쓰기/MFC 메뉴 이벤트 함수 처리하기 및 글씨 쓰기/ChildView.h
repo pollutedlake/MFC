@@ -16,6 +16,9 @@ public:
 
 // 특성입니다.
 public:
+	// ChildView에서도 값이 저장될 수 있어야 되므로 구조체 변수를 선언해 준다.
+	DialogData DIData;
+
 	CString m_str = _T("테스트");
 	bool m_bKorea = false;
 	bool m_bChina = false;
@@ -39,5 +42,6 @@ public:
 	afx_msg void OnKorea();
 	afx_msg void OnChina();
 	afx_msg void OnUpdateChina(CCmdUI* pCmdUI);
+	afx_msg void OnUpdateKorea(CCmdUI* pCmdUI);
 };
 
