@@ -1,0 +1,7 @@
+﻿  CModelessDlg.cpp
+  ChildView.cpp
+C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Game Programing\MFC\MFC 모델리스 다이알로그 학생성적관리\MFC 모델리스 다이알로그 학생성적관리\ChildView.cpp(89,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  MFC 모델리스 다이알로그 학생성적관리.cpp
+  MainFrm.cpp
+  코드를 생성하고 있습니다...
+  MFC 모델리스 다이알로그 학생성적관리.vcxproj -> C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Game Programing\MFC\MFC 모델리스 다이알로그 학생성적관리\Debug\MFC 모델리스 다이알로그 학생성적관리.exe
