@@ -1,0 +1,6 @@
+﻿  CMyMain.cpp
+C:\Users\psh95\source\repos\MFC API의 더블버퍼링, PeekMessage() 처리 하듯이 이미지 그리기\MFC API의 더블버퍼링, PeekMessage() 처리 하듯이 이미지 그리기\CMyMain.cpp(117,29): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\psh95\source\repos\MFC API의 더블버퍼링, PeekMessage() 처리 하듯이 이미지 그리기\MFC API의 더블버퍼링, PeekMessage() 처리 하듯이 이미지 그리기\CMyMain.cpp(117,17): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ChildView.cpp
+  코드를 생성하고 있습니다...
+  MFC API의 더블버퍼링, PeekMessage() 처리 하듯이 이미지 그리기.vcxproj -> C:\Users\psh95\source\repos\MFC API의 더블버퍼링, PeekMessage() 처리 하듯이 이미지 그리기\Debug\MFC API의 더블버퍼링, PeekMessage() 처리 하듯이 이미지 그리기.exe
